@@ -1,62 +1,44 @@
-# Fullstack-Bad-Bank
+# FullStack Bad Banking Application #
 
-# MITxPRO-Full-Stack Bad Banking Application-Capstone
+# FullStack Bad Banking Application-Capstone Project for MITxPro
 
-## DESCRIPTION
+This is my FullStack Bad Banking Application Capstone Project that has been fully refactored as a requirement and continuous learning process as a FullStack MERN Developer with MITxPRO.
 
-MITxPRO-Full-Stack Banking Application-Capstone is the final project required as part of my learning process as a full stack MERN developer with MITxPR.
-The front end is build with React.
-this full stack banking application main idea is based on a banking app where people can use it to either create a new account if they already are a client, they can perfom deposits, withdrawals and check their balances.
+## Description:
+FullStack Bad Banking Application is the Capstone Project for MIT. It is called _Bad Bank due to the users data exposure and data leak directly from within the UI (intentionally per se).
 
-As part of the back end, the app uses Node.js and MongoDB for storage.
+It consists of a complex React application where the students apply concepts such as context, routing, various form validations and data schemas. This project has been deployed as a React Application in AWS S3 Buckets.
 
-<!-- Skills -->
+## How to Run
 
-### Skills
+Simply download the zip folder with the source code file, or fork it into your github and clone it into your machine, and run it by using your favorite IDE.
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center"></th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>CSS Styles</li>
-          <li>CSS bootstrap</li>
-          <li>JavaScript</li>
-           <li>HTML</li>
-           <li>Normalize Style</li>
-           <li>Font Awesome</li>
-          <li>MongoDB</li>
-          <li>Node.js</li>
-          <li>Docker</li>
-          <li>ReactApp</li>
-          <li>Database And API</li>
-          <li>Express API</li>
-        </ul>
-  <tbody>
-<table>
+## Key Technologies and Libraries used:
+React JS
+Formik
+Data Schema Validation
+React Toastify
+Material UI
+Bootstrap
+ChartJS
 
-## Files 📁
+## Key Functionalities available:
+Create Account
+Login to Account
+Edit Account
+Transactions List
+Deposit
+Withdraw
+Totals Charts
 
-- frontend(public)
-- backend files (INSERT BE Files HERE) 
-- LICENSE
-- README.md
+INSERT URL LINK Here: 
 
-### _Pre-requisites_
+## Future Adds
+Enhance backend features
+Enhance personal profiles using avatar or other GIFs
+Enhance MongoDB & Firebase features and functionalities 
 
-- [Node.js](https://nodejs.org/en/download/)
-- [Visual Studio](https://visualstudio.microsoft.com/downloads/) (recommended)
+## License
+MIT License
 
-   ## MAINTAINERS
-
-This project is maintained by Kara Matuszewski.
-
-<!-- LICENSE -->
-
-### Licence
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) _The MIT License_
 
